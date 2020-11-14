@@ -3,17 +3,17 @@
 
 ## Installation
 
-First, install [Yeoman](http://yeoman.io) and generator-minecraft-addon using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
+First, install [Yeoman](http://yeoman.io) and generator-minecraft-addon-with-templates using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
 npm install -g yo
-npm install -g generator-minecraft-addon
+npm install -g generator-minecraft-addon-with-templates
 ```
 
 Then generate your new project:
 
 ```bash
-yo minecraft-addon
+yo minecraft-addon-with-templates
 ```
 
 ## Getting To Know Yeoman
@@ -25,7 +25,7 @@ yo minecraft-addon
 
 ## License
 
-MIT © [Steven Blom](http://github.com/AtomicBlom)
+N/A
 
 The Default Pack icon was created by Adrian Akison (https://www.akison.com/) and is released under [CC-BY-3.0-AU](https://creativecommons.org/licenses/by/3.0/au/)
 
